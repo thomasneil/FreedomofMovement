@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 06348323ac5d01341a9459b1538aad7f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box10
+    100002: ChamferBo1
+    100004: ChamferBox
+    100006: Cylinder01
+    100008: Cylinder01_Dml_frag_271
+    100010: Cylinder01_Dml_frag_275
+    100012: Cylinder01_Dml_frag_338
+    100014: Cylinder01_Dml_frag_346
+    100016: Cylinder01_Dml_frag_347
+    100018: Cylinder01_Dml_frag_365
+    100020: Cylinder01_MeshPart0
+    100022: Cylinder01_MeshPart1
+    100024: //RootNode
+    100026: Object002
+    400000: Box10
+    400002: ChamferBo1
+    400004: ChamferBox
+    400006: Cylinder01
+    400008: Cylinder01_Dml_frag_271
+    400010: Cylinder01_Dml_frag_275
+    400012: Cylinder01_Dml_frag_338
+    400014: Cylinder01_Dml_frag_346
+    400016: Cylinder01_Dml_frag_347
+    400018: Cylinder01_Dml_frag_365
+    400020: Cylinder01_MeshPart0
+    400022: Cylinder01_MeshPart1
+    400024: //RootNode
+    400026: Object002
+    2300000: Box10
+    2300002: ChamferBo1
+    2300004: ChamferBox
+    2300006: Cylinder01_Dml_frag_271
+    2300008: Cylinder01_Dml_frag_275
+    2300010: Cylinder01_Dml_frag_338
+    2300012: Cylinder01_Dml_frag_346
+    2300014: Cylinder01_Dml_frag_347
+    2300016: Cylinder01_Dml_frag_365
+    2300018: Cylinder01_MeshPart0
+    2300020: Cylinder01_MeshPart1
+    2300022: Object002
+    3300000: Box10
+    3300002: ChamferBo1
+    3300004: ChamferBox
+    3300006: Cylinder01_Dml_frag_271
+    3300008: Cylinder01_Dml_frag_275
+    3300010: Cylinder01_Dml_frag_338
+    3300012: Cylinder01_Dml_frag_346
+    3300014: Cylinder01_Dml_frag_347
+    3300016: Cylinder01_Dml_frag_365
+    3300018: Cylinder01_MeshPart0
+    3300020: Cylinder01_MeshPart1
+    3300022: Object002
+    4300000: Box10
+    4300002: Cylinder01_Dml_frag_365
+    4300004: Cylinder01_Dml_frag_347
+    4300006: Cylinder01_Dml_frag_346
+    4300008: Cylinder01_Dml_frag_338
+    4300010: Cylinder01_Dml_frag_275
+    4300012: Cylinder01_Dml_frag_271
+    4300014: Object002
+    4300016: ChamferBox
+    4300018: ChamferBo1
+    4300020: Cylinder01_MeshPart0
+    4300022: Cylinder01_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
